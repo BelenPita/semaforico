@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8bela__entities" id="8bela__entities">
+	<SimpleField name="Layer" type="string"></SimpleField>
+	<SimpleField name="PaperSpace" type="int"></SimpleField>
+	<SimpleField name="SubClasses" type="string"></SimpleField>
+	<SimpleField name="Linetype" type="string"></SimpleField>
+	<SimpleField name="EntityHandle" type="string"></SimpleField>
+	<SimpleField name="Text" type="string"></SimpleField>
+</Schema>
+<Folder><name>8bela__entities</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">LE-LÃNEA AÃREA PROYECTO</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">34A</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-2.97330435940919,42.7477070793334 -2.97383408201461,42.7461721350618 -2.97608457940222,42.7441638061226 -2.9934774261606,42.757357022692 -3.01245963179026,42.7568235500994 -3.02070959320292,42.7594313087294 -3.02353123382407,42.7633500735172 -3.03431216111779,42.7689429299338 -3.03681659180998,42.7739747433879 -3.0407618100678,42.7752566664295 -3.04139760152869,42.777604657681 -3.03906249139363,42.7899314144363 -3.04515827716245,42.7918728585117 -3.0456691746823,42.7942497168115 -3.04743560003847,42.7953243893985 -3.04735985034888,42.7962659959559</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">34B</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.03961122292239,42.7866442093821 -3.03975653258319,42.7866591442275 -3.03973625597,42.7867661723631 -3.03959094606367,42.7867512374924 -3.03961122292239,42.7866442093821</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">34D</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.04026750704917,42.7831799183101 -3.04041280876456,42.7831948523351 -3.04039253440797,42.783301880651 -3.0402472324471,42.7832869466006 -3.04026750704917,42.7831799183101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">34F</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.04073126222036,42.7807316832724 -3.0408765583215,42.7807466167177 -3.04085628555931,42.7808536451609 -3.04071098921272,42.7808387116902 -3.04073126222036,42.7807316832724</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">351</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.0356244452844,42.7717365815898 -3.03576216085822,42.7716993776192 -3.03581265975679,42.7718008369068 -3.03567494398845,42.7718380409375 -3.0356244452844,42.7717365815898</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">353</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.03117709669767,42.7673828326336 -3.0312615333126,42.7672944704316 -3.03138146306804,42.767356681825 -3.03129702653914,42.7674450441144 -3.03117709669767,42.7673828326336</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">355</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.02855527020691,42.7660227439027 -3.02863970870311,42.7659343836121 -3.02875963321217,42.7659965977675 -3.02867519480196,42.7660849581455 -3.02855527020691,42.7660227439027</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">357</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.02560205814089,42.7644906032824 -3.02568649875548,42.7644022451449 -3.02580641735498,42.7644644624109 -3.02572197682635,42.7645528206359 -3.02560205814089,42.7644906032824</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">359</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.02202761323985,42.7613771657896 -3.02215716615477,42.7613265176689 -3.02222590184846,42.7614219793438 -3.02209634879066,42.7614726275415 -3.02202761323985,42.7613771657896</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">35B</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.01708182615614,42.7583434896532 -3.01713963737947,42.7582441751259 -3.01727441229594,42.7582867756291 -3.01721660124826,42.7583860902237 -3.01708182615614,42.7583434896532</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">35D</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.00906677071358,42.7569732063418 -3.00906117141401,42.7568652194509 -3.00920771175743,42.7568610931906 -3.00921331131107,42.7569690800744 -3.00906677071358,42.7569732063418</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">35F</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.00501838709776,42.7570871257407 -3.00501279481726,42.7569791386537 -3.00515933569823,42.7569750175734 -3.00516492823279,42.7570830046533 -3.00501838709776,42.7570871257407</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">361</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.00100728619056,42.757199854477 -3.00100170086459,42.7570918671961 -3.00114824227711,42.7570877512482 -3.00115382785715,42.757195738522 -3.00100728619056,42.757199854477</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">363</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-2.99733677147935,42.7573028878602 -2.99733119251747,42.7571949004025 -2.99747773441548,42.7571907891512 -2.99748331363144,42.7572987766019 -2.99733677147935,42.7573028878602</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">365</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-2.99125674671137,42.7557505365979 -2.99115455088183,42.7556730347394 -2.99125972033734,42.7555977243077 -2.99136191617424,42.7556752260733 -2.99125674671137,42.7557505365979</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">367</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-2.98871009511401,42.7538191571637 -2.98860790563113,42.7537416530073 -2.98871307490349,42.7536663448886 -2.98881526439374,42.7537438489522 -2.98871009511401,42.7538191571637</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">369</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-2.98268730807429,42.7492507729843 -2.98258513360018,42.7491732633946 -2.98269030243701,42.749097960746 -2.98279247691855,42.749175470243 -2.98268730807429,42.7492507729843</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">36B</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-2.98079049826988,42.7478118059262 -2.98068832852232,42.7477342946256 -2.98079349722129,42.7476589936999 -2.98089566697629,42.7477365049076 -2.98079049826988,42.7478118059262</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_SUSPENSION</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">36D</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-2.9788559395332,42.7463441003046 -2.97875377460612,42.7462665872594 -2.97885894316414,42.7461912880906 -2.97896110809869,42.746268801043 -2.9788559395332,42.7463441003046</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">36F</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.0414925083969,42.7775305459643 -3.0414982065778,42.7776745718557 -3.04130269443411,42.7776787693183 -3.04129699670593,42.7775347434171 -3.0414925083969,42.7775305459643</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">371</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.04077688845492,42.7751553888013 -3.04089928694357,42.7752677744407 -3.04074673163167,42.7753579440541 -3.04062433324107,42.7752455582533 -3.04077688845492,42.7751553888013</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">373</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.03695481956448,42.7739780002505 -3.0368121708327,42.774076576313 -3.03667836406985,42.7739714863584 -3.0368210127729,42.7738729104607 -3.03695481956448,42.7739780002505</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">375</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.03444926390832,42.7689562363982 -3.03429410029506,42.7690439423415 -3.03417505838586,42.7689296233051 -3.03433022188194,42.7688419175214 -3.03444926390832,42.7689562363982</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">377</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.02366923554945,42.7633564736433 -3.02352254768349,42.7634517574867 -3.02339323212703,42.7633436732248 -3.02353991993633,42.7632483895453 -3.02366923554945,42.7633564736433</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">379</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.02084774134442,42.759427101326 -3.02071530286713,42.7595331070854 -3.02057144504267,42.7594355159661 -3.02070388355747,42.7593295103712 -3.02084774134442,42.759427101326</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">37B</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.01257359569861,42.7567658631044 -3.01253791416163,42.7569075312257 -3.01234566767164,42.7568812369799 -3.01238134963149,42.7567395689178 -3.01257359569861,42.7567658631044</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">37D</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-2.99360452725806,42.7573169204152 -2.99353184616654,42.7574506839206 -2.99335032490054,42.757397124827 -2.99342300631987,42.7572633614356 -2.99360452725806,42.7573169204152</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_FL</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">37F</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-2.973850874368,42.7462971415833 -2.97366324558149,42.7461817481606 -2.9738198094204,42.7460434589758 -2.97400743808051,42.7461588521448 -2.973850874368,42.7462971415833</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">381</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-2.97625584887539,42.7441469467274 -2.97610745308643,42.7442900422075 -2.97591330983638,42.7441806652616 -2.97606170581075,42.7440375700304 -2.97625584887539,42.7441469467274</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">383</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-2.98560010698612,42.7512528536875 -2.98542367134405,42.7513774812168 -2.98525456493962,42.7512474522363 -2.98543100055154,42.7511228249646 -2.98560010698612,42.7512528536875</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_FL</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">385</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.04744779732361,42.7954514279774 -3.04726309826318,42.7953333719155 -3.04742340280299,42.7951973508113 -3.04760810176319,42.7953154066176 -3.04744779732361,42.7954514279774</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">387</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.045297496937,42.7918730076508 -3.04515634586958,42.7919727778022 -3.04502087881238,42.7918688214506 -3.04516202986145,42.7917690514643 -3.045297496937,42.7918730076508</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_ANCLAJE</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">389</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.04580106327388,42.7942782355162 -3.0456275975714,42.7943448744038 -3.04553711250129,42.7942171237088 -3.0457105779443,42.7941504849569 -3.04580106327388,42.7942782355162</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">APOYO_FL</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">38B</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.03910484560316,42.790055085838 -3.03889495676524,42.7899626610885 -3.03902044646416,42.7898080755268 -3.03923033496616,42.789900500049 -3.03910484560316,42.790055085838</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">SE-BEROZADA</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">38F</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.04746917767452,42.7962661606151 -3.0471771781762,42.7962662812826 -3.04717746938941,42.7966496454264 -3.0475395885919,42.7966494956703 -3.04753929514342,42.7962661315285 -3.04746917767452,42.7962661606151</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">..vuelo</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">390</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.03693021067879,42.7738962280405 -3.0409337352585,42.7751550477835 -3.04159589729903,42.7776004002846 -3.03927682900551,42.7898427021392 -3.04533468679868,42.7917720572629 -3.04585084266557,42.7941733495387 -3.0476367822618,42.7952598905861 -3.04755516158657,42.7962745172906 -3.04716453916449,42.7962574742881 -3.04723441739703,42.7953888878569 -3.04548750625214,42.7943260837954 -3.04498186695358,42.7919736594873 -3.03876330087577,42.7899930984611 -3.03890299936095,42.7898095578612 -3.04119930573092,42.7776089147341 -3.04058988431485,42.7753582848159 -3.03669855090554,42.7740514838326 -3.03419023504475,42.769011848241 -3.02341811589024,42.763423551192 -3.02060427276479,42.7595156085596 -3.01493087111121,42.7577657855432 -3.01242850738825,42.7569415841728 -2.99341406278622,42.7574759539208 -2.98693055081895,42.7525836091392 -2.97613110743668,42.744348553083 -2.97400575569695,42.7462452038934 -2.97344646037732,42.74773371842 -2.97313857510029,42.7476760001762 -2.97367775947391,42.7461136504658 -2.97607422157268,42.7439750635887 -2.98722720188899,42.7523993665983 -2.99354661816009,42.7572199041283 -3.01249097369557,42.7566874857604 -3.01510034978159,42.757477751506 -3.02083252236755,42.7593330361402 -3.02366320440897,42.763264349421 -3.03445441288201,42.7688625276811 -3.03695316780197,42.773890034869</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">FV-Catastral vuelo</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">391</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.03693021067879,42.7738962280405 -3.0409337352585,42.7751550477835 -3.04159589729903,42.7776004002846 -3.03927682900551,42.7898427021392 -3.04533468679868,42.7917720572629 -3.04585084266557,42.7941733495387 -3.0476367822618,42.7952598905861 -3.04755516158657,42.7962745172906 -3.04716453916449,42.7962574742881 -3.04723441739703,42.7953888878569 -3.04548750625214,42.7943260837954 -3.04498186695358,42.7919736594873 -3.03876330087577,42.7899930984611 -3.03890299936095,42.7898095578612 -3.04119930573092,42.7776089147341 -3.04058988431485,42.7753582848159 -3.03669855090554,42.7740514838326 -3.03419023504475,42.769011848241 -3.02341811589024,42.763423551192 -3.02060427276479,42.7595156085596 -3.01493087111121,42.7577657855432 -3.01242850738825,42.7569415841728 -2.99341406278622,42.7574759539208 -2.98693055081895,42.7525836091392 -2.97613110743668,42.744348553083 -2.97400575569695,42.7462452038934 -2.97344646037732,42.74773371842 -2.97313857510029,42.7476760001762 -2.97367775947391,42.7461136504658 -2.97607422157268,42.7439750635887 -2.98722720188899,42.7523993665983 -2.99354661816009,42.7572199041283 -3.01249097369557,42.7566874857604 -3.01510034978159,42.757477751506 -3.02083252236755,42.7593330361402 -3.02366320440897,42.763264349421 -3.03445441288201,42.7688625276811 -3.03695316780197,42.773890034869</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#8bela__entities">
+		<SimpleData name="Layer">FV-Catastral franja de no edificabiliad</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
+		<SimpleData name="EntityHandle">392</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-3.0370093733696,42.7738721634388 -3.04098737039228,42.7751229544517 -3.04165786472164,42.7775990697778 -3.03934380938364,42.7898149794639 -3.04538981469257,42.7917405568166 -3.04590761381869,42.7941494847066 -3.04769965162084,42.7952397346347 -3.04761258052299,42.7963221283853 -3.04709988822423,42.7962997594287 -3.04717154773584,42.7954090435525 -3.04543073477606,42.7943499484186 -3.04492673864587,42.7920051597361 -3.03867683741764,42.7900146150017 -3.03884402819387,42.7897949545552 -3.04113734373259,42.7776102650975 -3.04053606424175,42.7753896964493 -3.03664996001931,42.7740846501371 -3.03413943243452,42.7690405641638 -3.0233709833389,42.7634541668566 -3.02056053112372,42.759550930631 -3.01490660410719,42.7578071132079 -3.01241659238953,42.7569869803133 -2.9933892925926,42.7575217078878 -2.98688672887731,42.7526149860763 -2.97613468067597,42.7444160736268 -2.97406115549245,42.7462664747183 -2.97348937336177,42.7477882242841 -2.97306430608881,42.7477085383099 -2.97362193006634,42.7460927630583 -2.9760704411393,42.7439077280261 -2.98727103794713,42.7523680004877 -2.99357158651461,42.7571741445654 -3.01250191377127,42.7566421170873 -3.01512425369215,42.7574363091051 -3.020876544863,42.7592981044758 -3.02371033667252,42.7632337336352 -3.03450522775301,42.7688338181281 -3.0370093733696,42.7738721634388</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
